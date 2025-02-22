@@ -1,0 +1,12 @@
+body {
+	margin: 5px;
+}
+
+input {
+	width: 99.6%;
+	height: 80vh;
+
+	border: none;
+
+	font-size: 500px;
+}
