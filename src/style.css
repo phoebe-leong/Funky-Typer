@@ -1,20 +1,28 @@
 body {
-	margin: 5px;
+	width: 100vw;
+	height: 99vh;
 
-	height: 100%;
-	overflow: hidden;
+	margin: 0;
+	padding: 0;
 }
 
 textarea {
-	width: 99.6%;
-	height: 100vh;
+	width: 100vw;
+	height: 99vh;
+
+	padding: 0;
+	margin: 0;
 
 	border: none;
 
-	font-size: 850px;
+	font-size: 450px /*850px8*/;
 	font-family: sans-serif;
 
 	caret-color: transparent;
+
+	text-wrap: wrap;
+
+	overflow: hidden;
 }
 
 textarea:focus {
