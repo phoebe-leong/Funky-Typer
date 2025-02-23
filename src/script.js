@@ -1,3 +1,3 @@
 window.onload = () => {
-	$("#input").inputfit()
+	$("textarea").inputfit()
 }
